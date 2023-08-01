@@ -1,2 +1,2 @@
 # JAVA ORIENTACAO A OBJETOS 
-Neste Repositorio abordamos algumas questoes e bibliotecas do mundo Java.
+In this repository we address some issues and libraries in the Java world.
